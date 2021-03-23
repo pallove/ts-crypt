@@ -1,2 +1,4 @@
 # ts-crypt
-An crypt library by using typescript, it`s  from cloudwu`s lcrypt.
+An crypt library by using typescript, refer to cloudwu`s [lcrypt](https://github.com/cloudwu/lua-crypt).
+
+because the crypto-js is incompatible with [skynet](https://github.com/cloudwu/skynet), also to heavy, so i made this.
